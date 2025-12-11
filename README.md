@@ -7,6 +7,14 @@
 ![Overview](https://github.com/aniketpatil0810/Australian_Flight_Analyst/blob/main/Project_Snapshots/Overview.png)
 
 ---
+## Route & Network
+![Route & Network](https://github.com/aniketpatil0810/Australian_Flight_Analyst/blob/main/Project_Snapshots/Route%20%26%20Trends.png)
+
+---
+
+![Radar Route](https://github.com/aniketpatil0810/Australian_Flight_Analyst/blob/main/Project_Snapshots/Radar%20Routes.png)
+
+---
 
 # 2. Project Description
 The **Flight Analysis Dashboard** is an interactive Power BI report built to analyze key aviation metrics such as **flight volume**, **route trends**, **delay patterns**, **airport performance**, 
