@@ -3,7 +3,8 @@
 ---
 
 ## 🖼️ Dashboard Preview
-![Spotify Dashboard Preview](Spotify_Dash_Screenshot.png)
+
+![Overview](https://github.com/aniketpatil0810/Australian_Flight_Analyst/blob/main/Project_Snapshots/Overview.png)
 
 ---
 
