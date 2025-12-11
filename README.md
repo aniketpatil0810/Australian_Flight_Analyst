@@ -3,15 +3,17 @@
 ---
 
 ## 🖼️ Dashboard Preview
-
+**Overview**
 ![Overview](https://github.com/aniketpatil0810/Australian_Flight_Analyst/blob/main/Project_Snapshots/Overview.png)
 
 ---
-## Route & Network
+
+**Route & Trends**
 ![Route & Network](https://github.com/aniketpatil0810/Australian_Flight_Analyst/blob/main/Project_Snapshots/Route%20%26%20Trends.png)
 
 ---
 
+**Radar Route**
 ![Radar Route](https://github.com/aniketpatil0810/Australian_Flight_Analyst/blob/main/Project_Snapshots/Radar%20Routes.png)
 
 ---
