@@ -91,7 +91,7 @@ Created an interactive dashboard including:
 1. Clone the repository
 
 ```bash
-
+https://github.com/aniketpatil0810/Australian_Flight_Analyst
 ```
 
 2. Open Jupyter Notebook for Python preprocessing
@@ -129,8 +129,8 @@ flight-data-analysis/
 
 If you like this project, feel free to connect!
 
-* LinkedIn: (Add your link)
-* GitHub: (Add your profile link)
+* LinkedIn: (https://www.linkedin.com/in/aniketharipatil/)
+* GitHub: (https://github.com/aniketpatil0810)
 
 ---
 
